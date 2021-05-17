@@ -1,0 +1,6 @@
+{
+  "name": "cypress_05_17",
+  "devDependencies": {
+    "cypress": "^7.3.0"
+  }
+}
